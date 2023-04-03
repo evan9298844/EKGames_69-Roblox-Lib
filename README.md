@@ -1,3 +1,8 @@
 # Loading the Lib
-Sorry the Lib is still in dev :(
-Its my first Might take long
+Local lib =loadstring(game:HttpGet"https://raw.githubusercontent.com/evan9298844/EKGames_69-Roblox-Lib/main/Lib.Lua")()
+# Creating the Window
+lib:CreateWindow("Lib Title")
+# Creating a button
+Window:CreateButton("Button Text",
+   Callback
+)
